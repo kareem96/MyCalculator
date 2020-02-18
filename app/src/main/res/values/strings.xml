@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="subtract">-</string>
+    <string name="add">+</string>
+    <string name="number">TypeOfNumber</string>
+    <string name="result">Hasil</string>
+</resources>
